@@ -25,7 +25,7 @@
 
 ### 📫 Let's Connect
 - 📧 Email: 01957987631a@gmail.com
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/saddam-hossen-619a81174/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saddam-hossen-619a81174/)
 - 🌍 [Portfolio Website](https://yourwebsite.com) _(optional)_
 
 ---
