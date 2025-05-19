@@ -4,9 +4,12 @@
 
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JavaFX Badge](https://img.shields.io/badge/JavaFX-1e88e5?style=for-the-badge&logo=java&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-1e88e5?style=for-the-badge&logo=java&logoColor=white)
+![Angular Badge](https://img.shields.io/badge/Angular-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![CI/CD Badge](https://img.shields.io/badge/CI/CD-1e88e5?style=for-the-badge&logo=java&logoColor=white)
 ![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![JavaFX Badge](https://img.shields.io/badge/JavaFX-6DB33F?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
