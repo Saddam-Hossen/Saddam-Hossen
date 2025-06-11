@@ -66,10 +66,29 @@ A comprehensive inventory and service lifecycle manager for IT devices.
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Saddam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saddamnvn&show_icons=true&theme=github_dark&hide=contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saddamnvn&layout=compact&theme=github_dark)
+### 🚀 Saddam's GitHub Activity
+
+These stats highlight my open-source contributions, collaboration, and coding activity on GitHub. They reflect my consistency and involvement across various projects, technologies, and repositories.
+
+* **Commit Streak**: Shows how consistently I’ve committed code over time
+* **Total Contributions**: Contributions to open-source, private, and personal repositories
+* **Most Used Languages**: Indicates which programming languages I use most often
+* **Top Projects**: Repositories I’ve actively maintained and contributed to
+
+### 🏆 Saddam's Top Languages
+
+This chart shows a breakdown of my most-used programming languages across all public repositories. It helps demonstrate my versatility and strengths in both frontend and backend development.
+
+Most frequent languages include:
+
+* **Java** – for backend services and desktop apps
+* **JavaScript/TypeScript** – for frontend work with React and Angular
+* **HTML/CSS** – for styling web interfaces
+
+These insights give a quick overview of my tech stack and coding preferences.
+
 
 ---
 ![github-user-contribution](https://github.com/user-attachments/assets/c6a4a51b-71c1-4f9b-beef-8081b0788135)
