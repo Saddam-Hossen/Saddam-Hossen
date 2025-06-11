@@ -21,10 +21,41 @@
 
 ---
 
-### 📌 Featured Projects
-- 🔐 **[Secure Login System](#)** — Spring Boot + JWT + MongoDB
-- 🖥️ **[Inventory Manager](#)** — JavaFX App for managing device inventory
-- ☁️ **[Cloud File Uploader](#)** — Upload files directly to AWS S3 / DigitalOcean Spaces
+## 📌 Featured Projects
+
+### 🕒 Attendance Software — Role-Based Attendance Tracker
+
+🌐 [Live Demo](https://attendance.deepseahost.com)
+A secure, role-configurable attendance system with dashboards for SuperAdmins, Admins, and Users.
+**Tech Stack:** Angular, Spring Boot, MongoDB, JWT, REST API, Bootstrap
+
+* Role-based dashboard and access control
+* JWT-secured REST APIs
+* Efficient attendance record storage in MongoDB
+
+---
+
+### 📚 Training App — Online Training Platform
+
+🌐 [Live Demo](https://trainingapp.deepseahost.com) | 📦 [GitHub Repo](https://github.com/Saddam-Hossen/TrainingApp)
+An interactive web platform for delivering training quizzes and collecting student feedback.
+**Tech Stack:** React, Spring Boot, JWT, Tailwind CSS, REST API
+
+* Admin can create/manage quizzes
+* Students can attend and submit quizzes
+* Fully responsive and secured architecture
+
+---
+
+### 🖥️ Device Management — Lifecycle Management System
+
+🌐 [Live Demo](https://snvn.deepseahost.com/login/login) | 📦 [GitHub Repo](https://github.com/Saddam-Hossen/DevicemanagementThymeleaf)
+A comprehensive inventory and service lifecycle manager for IT devices.
+**Tech Stack:** Java, Spring Boot, Thymeleaf, MongoDB, Bootstrap, JavaScript
+
+* Manages inventory, purchases, warranty, and service records
+* Role-based access with dynamic UI
+* Modular and scalable backend
 
 ---
 
