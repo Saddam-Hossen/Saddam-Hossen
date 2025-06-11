@@ -74,7 +74,7 @@ These stats highlight my open-source contributions, collaboration, and coding ac
 
 * **Commit Streak**: Shows how consistently I’ve committed code over time
 * **Total Contributions**: Contributions to open-source, private, and personal repositories
-* **Most Used Languages**: Indicates which programming languages I use most often
+* **Most Used Languages**: Java
 * **Top Projects**: Repositories I’ve actively maintained and contributed to
 
 ### 🏆 Saddam's Top Languages
@@ -85,7 +85,7 @@ Most frequent languages include:
 
 * **Java** – for backend services and desktop apps
 * **JavaScript/TypeScript** – for frontend work with React and Angular
-* **HTML/CSS** – for styling web interfaces
+* **HTML/CSS/Tailwind** – for styling web interfaces
 
 These insights give a quick overview of my tech stack and coding preferences.
 
